@@ -1,1 +1,70 @@
-# QAcart ToDo App – Manual Testing Project
+<div align="center">
+  <h1>🧪 QAcart ToDo App – Manual Testing Project</h1>
+  <p><strong>Full Test Cases + Bug Report | Black-box & UAT</strong></p>
+
+  <a href="https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Test%20Cases-Online-blue?style=for-the-badge&logo=google-sheets" />
+  </a>
+  &nbsp;
+  <a href="https://docs.google.com/document/d/YOUR_DOC_ID" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Bug%20Report-Online-red?style=for-the-badge&logo=google-docs" />
+  </a>
+</div>
+# 📝 QAcart ToDo Application Testing
+
+In this project, I applied my skills in **Manual Testing** by:
+
+- 🔍 Exploring the app  
+- 📊 Analyzing it  
+- ✅ Designing and implementing tests and work products
+
+---
+
+## 📂 Project Files
+
+- 🐞 [Todo Application Bug Report - View Online](https://1drv.ms/x/c/6ef00d33637adf73/IQDbGxwuGBNDQ5ln_rKgMS__AUIhk68YPFXCp32sQgDOPv4?e=7YGbdi)  
+- 🗂 [Todo Application Test Cases - View Online](https://1drv.ms/x/c/6ef00d33637adf73/IQA1l95fBjBvTr8Jc3vFBfDGASqognlk-f2ZP0F4TsVgrE0?e=1WJHR5)  
+
+> 💡 Click the links to view the files **online without downloading**  
+> Or view all files directly in the GitHub Pages site below.
+
+---
+
+## 🌐 View Project Online
+
+- 🌟 [Open Project with Files Online](https://USERNAME.github.io/REPO_NAME/)  
+*(Replace USERNAME and REPO_NAME with your GitHub account and repo name)*
+
+---
+
+## 🧪 Test Levels
+
+- ⚙️ **System Testing**  
+- 👤 **User Acceptance Testing (UAT)**  
+
+---
+
+## ✅ Types of Performed Tests
+
+- **Functional Testing**  
+- **Black-box Testing** using:  
+  - 🔹 **Equivalence Partitioning (EP)**  
+  - 🔹 **Boundary Value Analysis (BVA)**  
+  - 🔹 **Decision Table**  
+  - 🔹 **State Transition Techniques**  
+- **Usability Testing**  
+
+---
+
+## 🛠 Tools and Extensions Used
+
+- 📑 **Google Sheets** (to view test cases online)  
+- 🛠 **Developer Tools (Inspect)**  
+- 🔗 **Tweak** (Mock API calls)  
+
+---
+
+## 📌 Notes
+
+- All tests were performed manually to ensure full coverage of app functionality  
+- The work demonstrates the practical application of **manual testing techniques** in a real project scenario
