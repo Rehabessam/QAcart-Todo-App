@@ -2,11 +2,11 @@
   <h1>🧪 QAcart ToDo App – Manual Testing Project</h1>
   <p><strong>Full Test Cases + Bug Report | Black-box & UAT</strong></p>
 
-  <a href="https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID" target="_blank">
+  <a href="https://1drv.ms/x/c/6ef00d33637adf73/IQDbGxwuGBNDQ5ln_rKgMS__AUIhk68YPFXCp32sQgDOPv4?e=7YGbdi" target="_blank">
     <img src="https://img.shields.io/badge/View%20Test%20Cases-Online-blue?style=for-the-badge&logo=google-sheets" />
   </a>
   &nbsp;
-  <a href="https://docs.google.com/document/d/YOUR_DOC_ID" target="_blank">
+  <a href="https://1drv.ms/x/c/6ef00d33637adf73/IQA1l95fBjBvTr8Jc3vFBfDGASqognlk-f2ZP0F4TsVgrE0?e=1WJHR5" target="_blank">
     <img src="https://img.shields.io/badge/View%20Bug%20Report-Online-red?style=for-the-badge&logo=google-docs" />
   </a>
 </div>
