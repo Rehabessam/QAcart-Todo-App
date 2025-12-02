@@ -64,6 +64,27 @@ In this project, I applied my skills in **Manual Testing** by:
 
 ---
 
+🧾 Jira Integration & Test Management
+
+As part of this project, I also implemented Jira test management and tracking to simulate a real QA workflow.
+The Jira setup included:
+
+Creating a Scrum project in Jira.
+
+Adding User Stories and breaking them down into Tasks and Sub-tasks.
+
+Writing functional Test Cases related to the Todo App.
+
+Executing the test cases and linking them to the corresponding issues.
+
+Logging bugs directly in Jira with proper severity, priority, reproduction steps, and attachments.
+
+Using the Roadmap and Board for sprint planning, tracking progress, and visualizing workflow.
+
+This Jira section helped simulate an end-to-end QA cycle, from requirement analysis → test design → execution → defect reporting, → tracking.
+
+---
+
 ## 📌 Notes
 
 - All tests were performed manually to ensure full coverage of app functionality  
